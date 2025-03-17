@@ -52,7 +52,7 @@
 ---
 
 ## 🌎 Onde Me Encontrar  
-🔹 🐦 **Twitter:** [@AQUA0w0](https://twitter.com/AQUA0w0)  
+🔹 🐦 **Twitter:** [@AQUA0w0](https://twitter.com/)  
 🔹 🎮 **Discord:** **AQUA0w0**  
 🔹 💼 **GitHub:** [AQUA0w0](https://github.com/AQUA0w0)  
 
